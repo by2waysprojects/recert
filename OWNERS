@@ -23,6 +23,7 @@ filters:
       - downstream-change-needed
     reviewers:
       - rauhersu
+      - by2waysprojects
   "renovate.json":
     approvers:
       - konflux-approvers

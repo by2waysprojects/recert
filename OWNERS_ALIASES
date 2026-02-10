@@ -6,10 +6,12 @@ aliases:
     - abraham2512
     - fontivan
     - rauhersu
+    - by2waysprojects
     - sabbir-47
     - shajmakh
     - yanirq
   konflux-reviewers:
+    - by2waysprojects
     - fontivan
     - rauhersu
   recert-approvers:
